@@ -11,3 +11,15 @@
   </ItemGroup>
 
 </Project>
+
+<!--
+  <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishProtocol>FileSystem</PublishProtocol>
+    <Configuration>Release</Configuration>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <PublishDir>bin\Release\PublishOutput</PublishDir>
+    <RuntimeIdentifier>win7-x86</RuntimeIdentifier> // IMPORTANT
+  </PropertyGroup>
+</Project>
+-->
